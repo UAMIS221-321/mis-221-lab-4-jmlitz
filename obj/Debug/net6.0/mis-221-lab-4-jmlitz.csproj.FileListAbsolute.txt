@@ -1,0 +1,15 @@
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\obj\Debug\net6.0\mis-221-lab-4-jmlitz.csproj.AssemblyReference.cache
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\obj\Debug\net6.0\mis-221-lab-4-jmlitz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\obj\Debug\net6.0\mis-221-lab-4-jmlitz.AssemblyInfoInputs.cache
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\obj\Debug\net6.0\mis-221-lab-4-jmlitz.AssemblyInfo.cs
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\obj\Debug\net6.0\mis-221-lab-4-jmlitz.csproj.CoreCompileInputs.cache
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\bin\Debug\net6.0\mis-221-lab-4-jmlitz.exe
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\bin\Debug\net6.0\mis-221-lab-4-jmlitz.deps.json
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\bin\Debug\net6.0\mis-221-lab-4-jmlitz.runtimeconfig.json
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\bin\Debug\net6.0\mis-221-lab-4-jmlitz.dll
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\bin\Debug\net6.0\mis-221-lab-4-jmlitz.pdb
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\obj\Debug\net6.0\mis-221-lab-4-jmlitz.dll
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\obj\Debug\net6.0\refint\mis-221-lab-4-jmlitz.dll
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\obj\Debug\net6.0\mis-221-lab-4-jmlitz.pdb
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\obj\Debug\net6.0\mis-221-lab-4-jmlitz.genruntimeconfig.cache
+C:\Users\Surface\Desktop\MIS 221 Programs\FALL 2022 CODE\mis-221-lab-4-jmlitz\obj\Debug\net6.0\ref\mis-221-lab-4-jmlitz.dll
